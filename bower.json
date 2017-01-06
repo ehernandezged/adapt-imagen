@@ -1,20 +1,16 @@
 {
   "name": "adapt-imagen",
+  "version": "0.1",
+  "repository": "https://github.com/ehernandezged/adapt-imagen.git",
+  "homepage": "https://github.com/ehernandezged/adapt-imagen",
   "authors": [
     "Emmanuel <ehernandez@grupoeducare.com>"
   ],
-  "description": "plug",
-  "main": "",
+  "description": "imagen",
+  "main": "/js/adapt-imagen.js",
   "keywords": [
+    "adapt-plugin",
     "adapt-component"
   ],
-  "license": "MIT",
-  "homepage": "",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "license": "MIT"
 }
