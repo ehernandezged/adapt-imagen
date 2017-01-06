@@ -1,16 +1,17 @@
 {
-  "name": "adapt-imagen",
-  "version": "0.1",
-  "repository": "https://github.com/ehernandezged/adapt-imagen.git",
-  "homepage": "https://github.com/ehernandezged/adapt-imagen",
-  "authors": [
-    "Emmanuel <ehernandez@grupoeducare.com>"
-  ],
-  "description": "imagen",
-  "main": "/js/adapt-imagen.js",
-  "keywords": [
-    "adapt-plugin",
-    "adapt-component"
-  ],
-  "license": "MIT"
+    "name": "adapt-imagen",
+    "repository": "https://github.com/ehernandezged/adapt-imagen.git",
+    "framework": "~2.0.0",
+    "version": "0.1",
+    "homepage": "https://github.com/ehernandezged/adapt-imagen",
+    "authors": [
+        "Emmanuel <ehernandez@grupoeducare.com>"
+    ],
+    "description": "test",
+    "main": "",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "license": "MIT"
 }
